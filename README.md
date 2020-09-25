@@ -1,6 +1,6 @@
 # フロアマップ画像スクレイピング  
 ## Requirements  
-- Python  
+- Python 3.*    
 - Pipenv  
 - Pyenv  
 
